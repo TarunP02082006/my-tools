@@ -30,4 +30,6 @@ a {
 
 a:hover {
   background: #1d4ed8;
+  main h1 { color: #2563eb; }
+  main p { line-height: 1.6; }
 }
